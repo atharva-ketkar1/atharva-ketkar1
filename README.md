@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/atharva-ketkar1">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://atharvak.azurewebsites.net/">
+  <a href="https://atharva-ketkar1.github.io/">
     <img src="https://img.shields.io/badge/Website-brightgreen?style=for-the-badge" alt="Website Badge"/>
   </a>
 </div>
